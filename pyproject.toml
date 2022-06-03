@@ -5,7 +5,7 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry]
 name = "pypath_server"
 version = "0.0.1"
-description = "Download manager"
+description = "A HTTP server that serves databases built by pypath."
 license = "GPL-3.0-only"
 authors = [
     "Denes Turei <turei.denes@gmail.com>"
